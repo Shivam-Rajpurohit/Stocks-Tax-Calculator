@@ -1,0 +1,7 @@
+Name of Company traded: Infosys Ltd.
+Bought on: 26/5/26  for ₹1900.0
+Sold on: 5/6/26  for ₹2000.0
+Gross profit = ₹5000.0 and Net profit = ₹4725.9813
+Portfolio value stands at: ₹104725.9813
+
+
