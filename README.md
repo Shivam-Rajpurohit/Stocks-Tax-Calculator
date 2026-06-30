@@ -22,6 +22,7 @@ Can be used to calculate liabilities and profit on transactions of shares on the
 2. Run void main(String args[]) in 'Tax_window.java'
 3. Enter data in all fields.
 4. Pattern for dates: buy date, one space, sell date
+5. Before you start using the program, just write the amount of your starting capital in Portfolio_value_log.txt in digits
 
 ## Built With
 - Java
