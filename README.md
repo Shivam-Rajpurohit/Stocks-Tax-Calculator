@@ -9,13 +9,13 @@ Can be used to calculate liabilities and profit on transactions of shares on the
 ## Screenshots
 
 1. Input window
-!(Input.png)
+![Input window](Input.png)
 
 2.Output window
-!(Output.png)
+![Output window](Output.png)
 
 3. Logs file view
-!(Log.png)
+![Log file](Log.png)
 
 ## Getting Started
 1. Open in BlueJ or any Java IDE
